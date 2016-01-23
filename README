@@ -1,20 +1,20 @@
 ---------------
 AWESOME RIOT.JS
 ---------------
-    A curated list of awesome Riot.js <http://riotjs.com/> resources! The library is 
-    created by the incredible folks at Muut <https://muut.com/blog/technology/riot-2.0/>. 
-    Please refer the contribution guidelines and the license below for more information.
+A curated list of awesome Riot.js <http://riotjs.com/> resources! The library is 
+created by the incredible folks at Muut <https://muut.com/blog/technology/riot-2.0/>. 
+Please refer the contribution guidelines and the license below for more information.
 
 OFFICIAL LINKS
 --------------
   - Project Homepage <http://riotjs.com/>
   - Github Repository <https://github.com/riot/riot>
-  - [Code playground](http://riotjs.com/play/)
-  - [Official guide](http://riotjs.com/guide/)
-  - [API Docs](http://riotjs.com/api/)
-  - [Frequently Asked Questions](http://riotjs.com/faq/)
-  - [Examples by community](https://github.com/riot/examples)
-  - Download links: [JSDelivr](http://www.jsdelivr.com/projects/riot), [CDN](https://cdnjs.com/libraries/riot), [NPM](https://www.npmjs.com/package/riot), [Bower](http://bower.io/search/?q=riot.js), [Git](https://github.com/riot/riot.git)
+  - Code Playground <http://riotjs.com/play>
+  - Official Guide <http://riotjs.com/guide>
+  - API Docs <http://riotjs.com/api>
+  - Frequently Asked Questions <http://riotjs.com/faq>
+  - Examples by the Community <https://github.com/riot/examples>
+  - Download Links: [JSDelivr](http://www.jsdelivr.com/projects/riot), [CDN](https://cdnjs.com/libraries/riot), [NPM](https://www.npmjs.com/package/riot), [Bower](http://bower.io/search/?q=riot.js), [Git](https://github.com/riot/riot.git)
   - Branding: [60x30](http://riotjs.com/img/logo/riot60x.png), [120x60](http://riotjs.com/img/logo/riot120x.png), [240x120](http://riotjs.com/img/logo/riot240x.png), [480x240](http://riotjs.com/img/logo/riot480x.png), [512x512](http://riotjs.com/img/logo/square.png), [960x480](http://riotjs.com/img/logo/riot960x.png)
    
 ### Articles
