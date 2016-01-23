@@ -1,11 +1,14 @@
-Awesome Riot.js
 ---------------
-  A curated list of awesome Riot.js <http://riotjs.com/> resources! The library is created by the incredible folks at Muut <https://muut.com/blog/technology/riot-2.0/>. Please refer the contribution guidelines and the license below for more information.
+AWESOME RIOT.JS
+---------------
+    A curated list of awesome Riot.js <http://riotjs.com/> resources! The library is 
+    created by the incredible folks at Muut <https://muut.com/blog/technology/riot-2.0/>. 
+    Please refer the contribution guidelines and the license below for more information.
 
 OFFICIAL LINKS
-
+--------------
   - Project Homepage <http://riotjs.com/>
-  - [Github page](https://github.com/riot/riot)
+  - Github Repository <https://github.com/riot/riot>
   - [Code playground](http://riotjs.com/play/)
   - [Official guide](http://riotjs.com/guide/)
   - [API Docs](http://riotjs.com/api/)
