@@ -2,9 +2,7 @@
 AWESOME RIOT.JS
 ---------------
 
-A curated list of awesome Riot.js <http://riotjs.com/> resources! The library is 
-created by the incredible folks at Muut <https://muut.com/blog/technology/riot-2.0/>. 
-Please refer the contribution guidelines and the license below for more information.
+A curated list of awesome Riot.js <http://riotjs.com/> resources! The library is created by the incredible folks at Muut <https://muut.com/blog/technology/riot-2.0/>. Please refer the contribution guidelines and the license below for more information.
 
 OFFICIAL LINKS
 --------------
@@ -33,7 +31,7 @@ ARTICLES
 
   - Comparison with React and Polymer <http://riotjs.com/compare>
   - Riot compiler explained <http://www.triplet.fi/blog/riot-compiler-explained>
-  - Using Riot tags with Gulp and Browserify <http://www.triplet.fi/blog/adding_compiled_riot_tags_to_your_gulp_browserify_build>
+  - Riot tags with Gulp and Browserify <http://www.triplet.fi/blog/adding_compiled_riot_tags_to_your_gulp_browserify_build>
 
 TUTORIALS
 ---------
