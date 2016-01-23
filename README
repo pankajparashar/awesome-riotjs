@@ -8,6 +8,7 @@ Please refer the contribution guidelines and the license below for more informat
 
 OFFICIAL LINKS
 --------------
+
   - Project Homepage <http://riotjs.com/>
   - Github Repository <https://github.com/riot/riot>
   - Code Playground <http://riotjs.com/play>
@@ -15,7 +16,10 @@ OFFICIAL LINKS
   - API Docs <http://riotjs.com/api>
   - Frequently Asked Questions <http://riotjs.com/faq>
   - Examples by the Community <https://github.com/riot/examples>
-  - Download Links: [JSDelivr](http://www.jsdelivr.com/projects/riot), [CDN](https://cdnjs.com/libraries/riot), [NPM](https://www.npmjs.com/package/riot), [Bower](http://bower.io/search/?q=riot.js), [Git](https://github.com/riot/riot.git)
+  - Download Links
+      • JSD <http://www.jsdelivr.com/projects/riot>
+      • CDN <https://cdnjs.com/libraries/riot
+      • NPM <https://www.npmjs.com/package/riot>
   - Branding
       •   60x30 <http://riotjs.com/img/logo/riot60x.png>
       •  120x60 <http://riotjs.com/img/logo/riot120x.png>
@@ -27,11 +31,12 @@ OFFICIAL LINKS
 ARTICLES
 --------
 
-  - [Comparison with React and Polymer](http://riotjs.com/compare/)
-  - [Riot compiler explained](http://www.triplet.fi/blog/riot-compiler-explained/)
-  - [Using Riot tags with Gulp and Browserify](http://www.triplet.fi/blog/adding_compiled_riot_tags_to_your_gulp_browserify_build/)
+  - Comparison with React and Polymer <http://riotjs.com/compare>
+  - Riot compiler explained <http://www.triplet.fi/blog/riot-compiler-explained>
+  - Using Riot tags with Gulp and Browserify <http://www.triplet.fi/blog/adding_compiled_riot_tags_to_your_gulp_browserify_build>
 
-### Tutorials
+TUTORIALS
+---------
 
   - [Building Apps with Riot, ES6 and Webpack](http://blog.srackham.com/posts/riot-es6-webpack-apps/)
   - [Building a tabbed interface with Riot](http://robertwpearce.com/blog/riotjs-example/)
