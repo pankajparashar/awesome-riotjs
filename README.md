@@ -1,4 +1,6 @@
 # **Awesome Riot.js** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[![Join the chat at https://gitter.im/pankajparashar/awesome-riotjs](https://badges.gitter.im/pankajparashar/awesome-riotjs.svg)](https://gitter.im/pankajparashar/awesome-riotjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library is created by the incredible folks at [Muut](https://muut.com/blog/technology/riot-2.0/). Please refer the contribution guidelines and the license for more information.
 
   - [Official Links](#official-links)
