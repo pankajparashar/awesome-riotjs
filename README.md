@@ -56,6 +56,13 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) by [@timkindberg](https://github.com/timkindberg) **- EggHead** `[02:20]`
   - [Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) by [@timkindberg](https://github.com/timkindberg) **- EggHead (PRO)** `[02:48]`
   - [Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) by [@timkindberg](https://github.com/timkindberg) **- EggHead** `[04:02]`
+  - [RiotJS - Introdution Part #1](https://www.youtube.com/watch?v=ZHmJ_gcZ8Fw) by [@andrewdelprete](https://github.com/andrewdelprete) **- Youtube** `[03:29]`
+  - [RiotJS - Event Handlers and Rendering Part #2](https://www.youtube.com/watch?v=FPmAZD9QRQw) by [@andrewdelprete](https://github.com/andrewdelprete) **- Youtube** `[03:10]`
+  - [RiotJS - Looping with each attribute Part #3](https://www.youtube.com/watch?v=VDKenvP5TyM) by [@andrewdelprete](https://github.com/andrewdelprete) **- Youtube** `[02:19]`
+  - [RiotJS - Nested Tags / Inheritance Part #4](https://www.youtube.com/watch?v=DzyaPZCrQ-A) by [@andrewdelprete](https://github.com/andrewdelprete) **- Youtube** `[03:38]`
+  - [RiotJS - Expressions and Classes - Part #5](https://www.youtube.com/watch?v=_a4OSbPSUEE) by [@andrewdelprete](https://github.com/andrewdelprete) **- Youtube** `[02:00]`
+  - [RiotJS - Observables - Part #6](https://www.youtube.com/watch?v=CHBQtqNtEhM) by [@andrewdelprete](https://github.com/andrewdelprete) **- Youtube** `[05:09]`
+  - [RiotJS - Routing - Part #7](https://www.youtube.com/watch?v=1Q9Nad1Mu6A) by [@andrewdelprete](https://github.com/andrewdelprete) **- Youtube** `[05:36]`
   
 ### Components
 
@@ -76,6 +83,7 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Hacker News](http://txchen.github.io/riot-hn/#news/1)
   - [Shopping cart](http://txchen.github.io/feplay/riot_flux/)
   - [Autocomplete](http://richardbondi.net/riot/)
+  - [multitab code editor](http://plnkr.co/edit/4rhHUTo2VQlzDaMIlAmu?p=preview)
   
 ### Tools
 
@@ -97,7 +105,7 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
 
 Please feel free to suggest new resources by [creating a new issue](https://github.com/pankajparashar/awesome-riotjs/issues) and submit translation in other languages by [creating a new pull request](https://github.com/pankajparashar/awesome-riotjs/pulls). Few points to note,
 
-  - Use one of the appropriate lables, namely, **#official-links**, **#tutorials**, **#demos**, **#miscellaneous** while creating a new issue to categorize the resource.
+  - Use one of the appropriate labels, namely, **#official-links**, **#tutorials**, **#demos**, **#miscellaneous** while creating a new issue to categorize the resource.
   - To request the addition of a new label, raise a separate issue to create the label first and tag it appropriately with the **#new-label**.
   - To update the hyperlink of a resource, already present in the list, use the label **#updated-link** and include the new hyperlink in the body of the issue page.
 
