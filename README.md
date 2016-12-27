@@ -69,6 +69,7 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Riot.js Starter Kit](https://github.com/wbkd/riotjs-startkit)
   - [Riot.js for TypeScript](https://github.com/nippur72/RiotTS)
   - [Riot.js + require.js](https://github.com/amenadiel/requirejs-riot)
+  - [Universal Riot.js](https://github.com/fabricionaweb/universal-riot)
 
 ### Examples  
 
