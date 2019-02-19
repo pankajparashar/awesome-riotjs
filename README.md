@@ -65,6 +65,7 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   
 ### Frameworks
 
+  - [EdenJS isomorphic](https://github.com/eden-js/cli)
   - [Angular.js + Riot.js](https://github.com/lucasbrigida/angular-riot)
   - [Riot.js Starter Kit](https://github.com/wbkd/riotjs-startkit)
   - [Riot.js for TypeScript](https://github.com/nippur72/RiotTS)
