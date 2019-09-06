@@ -76,6 +76,7 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Hacker News](http://txchen.github.io/riot-hn/#news/1)
   - [Shopping cart](http://txchen.github.io/feplay/riot_flux/)
   - [Autocomplete](http://richardbondi.net/riot/)
+  - [riot_v4_realworld_example_app](https://github.com/iq3addLi/riot_v4_realworld_example_app)
   
 ### Tools
 
